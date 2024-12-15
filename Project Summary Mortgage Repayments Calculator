@@ -1,0 +1,14 @@
+This project is a Streamlit-based web application designed to calculate and display the repayment details for a mortgage loan. It allows users to input key financial data such as:
+
+Home Value
+Deposit
+Interest Rate
+Loan Term
+Using this information, the application computes the monthly repayment amount, the total repayment over the loan period, and the total interest paid. The mortgage repayment formula is applied to calculate the monthly payment, factoring in the loan amount (home value minus deposit), interest rate, and loan term.
+
+Key Features:
+
+Repayment Calculation: The monthly repayment, total repayment, and total interest are displayed.
+Payment Schedule: A detailed monthly breakdown is provided, showing the principal and interest payments along with the remaining balance for each month.
+Interactive Visualization: A line chart illustrates the reduction in the remaining balance over time, grouped by year.
+This tool is useful for users who want to better understand their mortgage repayment structure and plan their finances accordingly.
